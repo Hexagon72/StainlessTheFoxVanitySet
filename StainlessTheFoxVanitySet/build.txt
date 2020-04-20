@@ -1,0 +1,3 @@
+displayName = StainlessTheFox Vanity Set
+author = Hex
+version = 1.0
